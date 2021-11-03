@@ -1,0 +1,6 @@
+/Users/csengeorban/Projects/FinalProjectLegalX/FinalProjectLegalX/bin/Debug/FinalProjectLegalX.exe
+/Users/csengeorban/Projects/FinalProjectLegalX/FinalProjectLegalX/bin/Debug/FinalProjectLegalX.pdb
+/Users/csengeorban/Projects/FinalProjectLegalX/FinalProjectLegalX/obj/Debug/FinalProjectLegalX.csproj.AssemblyReference.cache
+/Users/csengeorban/Projects/FinalProjectLegalX/FinalProjectLegalX/obj/Debug/FinalProjectLegalX.csproj.CoreCompileInputs.cache
+/Users/csengeorban/Projects/FinalProjectLegalX/FinalProjectLegalX/obj/Debug/FinalProjectLegalX.exe
+/Users/csengeorban/Projects/FinalProjectLegalX/FinalProjectLegalX/obj/Debug/FinalProjectLegalX.pdb
