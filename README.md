@@ -1,6 +1,5 @@
 # FinalProjectLegalX
 
-Brief Solution Plan
 This report presents technical specifications and design choices about the application for company LegalX. 
 The solution is built using Object Oriented programming principles. 
 The solution consists of a total of 9 classes, including the main class, the parent class Employee and its three child classes, namely Lawyer, Administration and Receptionist, 
