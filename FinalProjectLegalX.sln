@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProjectLegalX", "FinalProjectLegalX\FinalProjectLegalX.csproj", "{8407C4BC-ED21-4575-BC5C-9B402AC31185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8407C4BC-ED21-4575-BC5C-9B402AC31185}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8407C4BC-ED21-4575-BC5C-9B402AC31185}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8407C4BC-ED21-4575-BC5C-9B402AC31185}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8407C4BC-ED21-4575-BC5C-9B402AC31185}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A4ECCB6-201C-4D42-9871-80CE167B2A3E}
+	EndGlobalSection
+EndGlobal
